@@ -1,0 +1,14 @@
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\bin\Debug\Марафон.exe.config
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\bin\Debug\Марафон.exe
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\bin\Debug\Марафон.pdb
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.csprojAssemblyReference.cache
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Auth.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Choose.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Main.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Ok.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Properties.Resources.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.Test.resources
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.csproj.GenerateResource.cache
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.csproj.CoreCompileInputs.cache
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.exe
+C:\Users\HOLO-LYNX\source\repos\Марафон\Марафон\obj\Debug\Марафон.pdb
